@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1568191903 source:c:\users\suyog\documents\str_token\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
